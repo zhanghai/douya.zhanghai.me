@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "name": "豆芽",
+  "launch_path": "/index.html",
+  "description": "Material Design 的第三方豆瓣应用",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "张海",
+    "url": "https://github.com/DreaminginCodeZH"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "zh",
+  "permissions": {
+  },
+  "locales": {
+    "zh": {
+      "name": "豆芽",
+      "description": "Material Design 的第三方豆瓣应用"
+    },
+    "en": {
+      "name": "Douya",
+      "description": "A Material Design app for douban.com"
+    }
+  }
+}
